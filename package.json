@@ -1,0 +1,25 @@
+{
+  "name": "bograch-tcp",
+  "version": "0.0.1",
+  "description": "A TCP transport for Bograch.",
+  "main": "./lib",
+  "scripts": {
+    "test": "mocha -R spec test/"
+  },
+  "keywords": [
+    "bograch",
+    "tcp",
+    "transport"
+  ],
+  "author": "Zoltan Kochan",
+  "license": "MIT",
+  "dependencies": {
+    "bograch-transport": "0.0.1",
+    "callback-store": "0.0.1",
+    "json-socket": "^0.1.2"
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.1"
+  }
+}
