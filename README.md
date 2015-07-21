@@ -1,9 +1,9 @@
 #bograch-tcp
 
-[![Dependency Status](https://david-dm.org/zkochan/bograch-tcp/status.svg?style=flat)](https://david-dm.org/zkochan/bograch-tcp) [![Build Status](http://img.shields.io/travis/zkochan/bograch-transport.svg?style=flat)](https://travis-ci.org/zkochan/bograch-tcp)
+[![Dependency Status](https://david-dm.org/bograch/bograch-tcp/status.svg?style=flat)](https://david-dm.org/bograch/bograch-tcp) [![Build Status](https://travis-ci.org/bograch/bograch-tcp.svg?branch=master)](https://travis-ci.org/bograch/bograch-tcp)
 
 
-A TCP transport for [Bograch](https://github.com/zkochan/bograch).
+A TCP transport for [Bograch](https://github.com/bograch/bograch).
 
 
 ## Install
